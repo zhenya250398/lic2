@@ -1,0 +1,5 @@
+c:\users\genets\documents\visual studio 2015\Projects\DataCollectionApp\DataCollectionModel\bin\Debug\DataCollectionModel.dll
+c:\users\genets\documents\visual studio 2015\Projects\DataCollectionApp\DataCollectionModel\bin\Debug\DataCollectionModel.pdb
+c:\users\genets\documents\visual studio 2015\Projects\DataCollectionApp\DataCollectionModel\obj\Debug\DataCollectionModel.csprojResolveAssemblyReference.cache
+c:\users\genets\documents\visual studio 2015\Projects\DataCollectionApp\DataCollectionModel\obj\Debug\DataCollectionModel.dll
+c:\users\genets\documents\visual studio 2015\Projects\DataCollectionApp\DataCollectionModel\obj\Debug\DataCollectionModel.pdb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Employee>
+    <Id>1</Id>
+    <FIO>Иванов И.И.</FIO>
+    <Address>Ленина 3</Address>
+    <Tel>(133) 333-3366</Tel>
+    <Department>
+      <Id>1</Id>
+      <Name>АСО</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Birthday>1990-05-05T11:35:21</Birthday>
+    <Rewards />
+  </Employee>
+  <Employee>
+    <Id>2</Id>
+    <FIO>Орлов Л.А.</FIO>
+    <Address>Пушкина 21</Address>
+    <Tel>(555) 555-5555</Tel>
+    <Department>
+      <Id>3</Id>
+      <Name>Горный отдел</Name>
+    </Department>
+    <Gender>Male</Gender>
+    <Birthday>1993-05-05T11:35:41</Birthday>
+    <Rewards>
+      <Reward>
+        <Id>0</Id>
+        <Name>Лучший сотрудник года</Name>
+        <Description>Лучший сотрудник года</Description>
+        <Year>2010</Year>
+      </Reward>
+    </Rewards>
+  </Employee>
+</ArrayOfEmployee>

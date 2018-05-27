@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<LicenseDto xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LicenseeName>qwe</LicenseeName>
+  <ValidUntil>2018-06-25T00:00:00</ValidUntil>
+  <AllowedFeatures>
+    <string>AllowSaveInFile</string>
+    <string>AllowReadFromFile</string>
+  </AllowedFeatures>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XhwAStMkRj+GmSeq497go1gN/d0=</DigestValue></Reference></SignedInfo><SignatureValue>QfVCqPGsGnl25i2L+xfJoovsC3ny0h4ZpfKv/17Rzjxmy6wPSQv5/E/qZYZS/L/wUfjkTcFkY33Ugq4IP1EtMR7X0TzqLW2/q3AFgaqvvHEowMiHuCRkHcRPHpG5PUDI2KsTGAlJDiVk1lkYGk1l4vjHp0mSRUpi9r2ZCa0oDB0=</SignatureValue></Signature></LicenseDto>
